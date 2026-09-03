@@ -18,5 +18,5 @@ Welcome! This repository serves as a structured index of my featured projects in
 
 ### 📬 Connect
 
-* **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/rashid-cherdabayev)
+* **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rashid-cherdabayev)
 * **Email:** [Your Email Address](mailto:rcherdab@charlotte.edu)
