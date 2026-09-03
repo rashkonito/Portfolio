@@ -1,25 +1,22 @@
-# 📊 Data Analytics & Financial Modeling Portfolio
+# 📊 Portfolio
 
-Welcome! This repository serves as a structured index of my projects in data analytics, database management, and financial analysis.
+Welcome! This repository serves as a structured index of my featured projects in financial modeling, valuation, and analytics.
 
 ---
 
 ### 📈 Financial Analysis & Valuation
 
 * **[Starbucks FY24 Financial Statement Analysis](https://github.com/rashkonito/Starbucks-Financial-Analysis-FY24)**
-  * **Overview:** Comprehensive accounting analysis of Starbucks' FY2024 10-K, featuring common-size income statements, liquidity ratio evaluations, and cost structure breakdowns.
-  * **Tools:** Excel, Managerial Accounting Frameworks
+  * **Overview:** Financial statement and managerial accounting analysis of Starbucks Corporation (NASDAQ: SBUX) for FY2024, featuring 10-K balance sheet modeling, Deloitte audit review, and cost structure breakdowns.
+  * **Tools:** Excel, Financial Statement Analysis, Accounting Frameworks
 
----
-
-### 🔍 Data Analytics & SQL
-
-* **[Customer Retention & Query Optimization](https://github.com/rashkonito/your-repo-name)**
-  * **Overview:** Analyzed user transaction data to identify churn patterns and optimized SQL queries for high-volume database reporting.
-  * **Tools:** PostgreSQL, Python, Power BI
+* **[Micron Technology DCF Valuation & Financial Model](https://github.com/rashkonito/Micron-DCF-Valuation)**
+  * **Overview:** Discounted Cash Flow (DCF) valuation and financial model for Micron Technology (NASDAQ: MU), incorporating revenue projections, WACC estimation, and sensitivity analysis.
+  * **Tools:** Excel, Financial Modeling, DCF Analysis
 
 ---
 
 ### 📬 Connect
-* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-* **Email:** rashid@example.com
+
+* **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/rashid-cherdabayev)
+* **Email:** [Your Email Address](mailto:rcherdab@charlotte.edu)
