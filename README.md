@@ -10,7 +10,7 @@ Welcome! This repository serves as a structured index of my featured projects in
   * **Overview:** Financial statement and managerial accounting analysis of Starbucks Corporation (NASDAQ: SBUX) for FY2024, featuring 10-K balance sheet modeling, Deloitte audit review, and cost structure breakdowns.
   * **Tools:** Excel, Financial Statement Analysis, Accounting Frameworks
 
-* **[Micron Technology DCF Valuation & Financial Model](https://github.com/rashkonito/Micron-DCF-Valuation)**
+* **[Micron Technology DCF Valuation & Financial Model](https://github.com/rashkonito/Micron-Valuation-PItch)**
   * **Overview:** Discounted Cash Flow (DCF) valuation and financial model for Micron Technology (NASDAQ: MU), incorporating revenue projections, WACC estimation, and sensitivity analysis.
   * **Tools:** Excel, Financial Modeling, DCF Analysis
 
